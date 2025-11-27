@@ -7,6 +7,7 @@ import { InteractiveLoveLetters } from './components/InteractiveLoveLetters';
 import { InteractiveCountdown } from './components/InteractiveCountdown';
 import { InteractiveFooter } from './components/InteractiveFooter';
 import { MusicPlayer } from './components/MusicPlayer';
+import { EmotionBox } from './components/EmotionBox';
 
 function App() {
   return (
