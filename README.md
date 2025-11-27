@@ -1,6 +1,6 @@
 # Página Especial: Yan & Fernanda
 
-Este projeto é uma página dedicada à namorada do Yan, feita com carinho e atenção aos detalhes. O foco é criar uma experiência visual e emocionalmente significativa, usando uma stack moderna e eficiente.
+Este projeto é uma página dedicada à minha namorada, feita com carinho e atenção aos detalhes. O foco é criar uma experiência visual e emocionalmente significativa, usando uma stack moderna e eficiente.
 
 Tecnologias principais:
 - React + TypeScript para uma interface interativa e tipada
@@ -94,4 +94,4 @@ Projeto pessoal com fins demonstrativos/afetivos. Ajuste e reutilize conforme ne
 
 
 —
-Feito com 💜 e lavanda para Yan & Fernanda.
+Feito com 💜 para a Fernanda.
