@@ -38,7 +38,7 @@ Todas as seções foram otimizadas para responsividade e possuem animações sua
 2. Rode em modo desenvolvimento:
    - npm run dev
 
-3. Acesse no navegador o endereço mostrado no terminal (geralmente http://localhost:5173).
+3. Acesse no navegador o endereço mostrado no terminal.
 
 4. Para gerar build de produção:
    - npm run build
